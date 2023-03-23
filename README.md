@@ -5,4 +5,4 @@ This project was jointly done by the following contributors
 
 1. Chukwunonso Kuzue <kuzuechinonsojude@gmail.com>
 
-2. Robiu Titilope <@gmail.com>
+2. Robiu Titilope <robiuridwanullah123@gmail.com>
